@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lesson2_2</string>
+    <string name="enter_hint">Введите 2 числа</string>
+    <string name="title">Последнее изменение</string>
 </resources>
